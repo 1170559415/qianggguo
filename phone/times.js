@@ -3,7 +3,7 @@ setTimeout(()=>{
     hoke();
 },"10");
 
-!function hoke() {
+function hoke() {
 // ==UserScript==
 // @name         Everything-Hook
 // @namespace    https://gitee.com/HGJing/everthing-hook/
